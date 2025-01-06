@@ -64,6 +64,7 @@
   :global(body) {
     width: min(90vw, 1200px);
     margin: auto;
+    overflow-y: scroll;
   }
 
   main {
